@@ -1,0 +1,101 @@
+*{margin 0}
+.tit{
+   position: absolute;
+   width: 925px; height: 150px;
+   font-size: 2.5em;
+   font-family: @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+   right: 28%;
+   bottom: 18%;
+   text-align: center;
+}
+.box1{
+    position: absolute;
+    width: 925px; height: 590px;
+    margin: 0 auto;
+    padding: 15px 450px    
+}
+.box2{
+    position: absolute;
+    width: 1100px; height: 665px;
+    margin: 0 auto;
+    right: 22.5%;
+    bottom: -60%;
+}
+.inbox2{
+    position: absolute;
+    width: 1045px; height: 45px;
+    text-align: center;
+    font-size: 2em;
+    right: 24%;
+    bottom: -70%;
+}
+.box3{
+    position: absolute;
+    width: 1110px; height: 625px;
+    margin: 0 auto;
+    right: 22.5%;
+    bottom: -140%;
+}
+.inbox3{
+    position: absolute;
+    width: 1100px; height: 1080px;
+    text-align: left;
+    right: 22.5%;
+    bottom: -257%;
+}
+.inbox3_2{
+    position: absolute;
+    width: 1100px; height: 1080px;
+    text-align: left;
+    right: 22.5%;
+    bottom: -270%;
+}
+.inbox3_3{
+    position: absolute;
+    width: 1100px; height: 1080px;
+    text-align: left;
+    right: 22.5%;
+    bottom: -285%;
+}
+.inbox3_4{
+    position: absolute;
+    width: 1100px; height: 1080px;
+    text-align: left;
+    right: 22.5%;
+    bottom: -303%;
+}
+.inbox3_5{
+    position: absolute;
+    width: 1100px; height: 1080px;
+    text-align: left;
+    right: 22.5%;
+    bottom: -320%;
+}
+.box4{
+    position: absolute;
+    width: 700px; height: 935px;
+    margin: 0 auto;
+    right: 35%;
+    bottom: -330%;
+}
+.inbox4{
+    position: absolute;
+    width: 790px; height: 100px;
+    text-align: center;
+    right: 33%;
+    bottom: -345%;
+}
+.box5{
+    position: absolute;
+    width: 150px; height: 150px;
+    margin: 0 auto;
+    right: 48%;
+    bottom: -380%;
+}
+.inbox5{
+    position: absolute;
+    width: 500px; height: 30px;
+    text-align: center;
+    right: 38%;
+    bottom: -385%;
+}
